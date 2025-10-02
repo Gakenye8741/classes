@@ -4,10 +4,9 @@ POST http://localhost:5000/api/users/CreateUser
 Content-Type: application/json
 
 {
-    "fullName":"Gakenye Ndiritu",
-    "email":"gakenye04@gmail.com",
-    "phoneNumber":"193918381",
+    "fullName":"JOhn Mungai",
+    "email":"jmungai03@gmail.com",
+    "phoneNumber":"19391838",
     "password":"12345678",
-    "regNo":"sc/com/0008/22"
-
+    "regNo":"sc/com/0031/22"
 }
